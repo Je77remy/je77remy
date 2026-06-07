@@ -1,166 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,60:1e293b,100:334155&height=280&section=header&text=JE7%20LABS&fontSize=58&fontColor=e2e8f0&fontAlignY=38&desc=Research%20Division%20·%20Infrastructure%20Sandbox%20·%20Experimental%20Systems&descColor=94a3b8&animation=fadeIn" width="100%"/>
+<img src="./assets/banner.png" width="100%" alt="JE7 Labs Banner"/>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Research+Before+Production;Infrastructure+·+Security+·+Automation;Experimental+Systems+and+Future+Projects;Break+Things+Here+First)]()
+
+<br/>
+
+[![Production Profile](https://img.shields.io/badge/Production_Profile-020617?style=for-the-badge&logo=github&logoColor=60A5FA)](https://github.com/TU_CUENTA_PRINCIPAL)
+
+![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=60A5FA&labelColor=020617&label=LAB+VISITS)
 
 </div>
 
-<div align="center">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=break+it+here+before+it+breaks+in+production;research+%C2%B7+security+%C2%B7+infrastructure+%C2%B7+automation;experimental+systems+and+future+projects;R%26D+division+of+the+JE7+ecosystem)]()
+# 🧪 JE7 Labs
 
-<br/>
+Experimental branch dedicated to research, validation, prototyping, infrastructure testing and future project development.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=60A5FA&labelColor=020617&label=LAB+VISITS)
+This environment exists so production environments don't have to suffer the consequences of curiosity.
 
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,50:334155,100:1e293b&height=2&section=header" width="100%"/>
-
-<br/>
-
-# 🧪 Research Before Production
-
-This account serves as the experimental branch of my development ecosystem.
-
-Every architecture decision, deployment strategy, automation workflow, security improvement and infrastructure design is validated here before reaching production environments.
-
-<br/>
-
-> **Mission**
->
-> Break things here so they never break in production.
+> **Research → Validation → Production**
 
 <br/>
 
 ```yaml
-environment : Experimental
-risk_level  : Controlled
-production  : Forbidden
-purpose     : Research & Validation
+environment : Laboratory
+focus       : Research & Development
 status      : Active
+purpose     : Experiments & Validation
+risk        : Controlled
+production  : Restricted
 ```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,50:334155,100:1e293b&height=2&section=header" width="100%"/>
-
-<br/>
+---
 
 # 🔬 Active Laboratories
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🐳 Container Lab
 
 - Docker
 - Docker Compose
 - Container Security
-- Network Isolation
-- Volume Strategies
+- Networking
+- Isolation Strategies
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚙️ CI/CD Lab
+### ⚙️ Automation Lab
 
 - GitHub Actions
-- Workflow Testing
-- Release Pipelines
-- Deployment Automation
-- Build Optimization
+- CI/CD Pipelines
+- Release Automation
+- Repository Templates
+- Workflow Optimization
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔒 Security Lab
 
 - Vulnerability Research
-- Hardening Strategies
+- Hardening
+- Authentication Models
+- Secrets Management
 - Access Control
-- Authentication Flows
-- Infrastructure Audits
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌐 Infrastructure Lab
 
 - Reverse Proxies
 - Nginx
-- TLS Configuration
-- Service Architecture
+- TLS
 - Observability
+- System Architecture
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,50:334155,100:1e293b&height=2&section=header" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-# ⚡ Current Research Areas
-
-</div>
-
-<br/>
+# ⚡ Current Research
 
 ```diff
 @@ INFRASTRUCTURE @@
 
-+ Reverse Proxy Patterns
-+ Docker Networking
-+ Service Isolation
-+ Monitoring Architectures
++ Reverse Proxy Architectures
++ Container Orchestration
 + Infrastructure Automation
++ Service Isolation
++ Monitoring Systems
 
 @@ SECURITY @@
 
-+ Vulnerability Assessment
++ Security Auditing
++ Hardening Strategies
 + Attack Surface Reduction
-+ Authentication Models
-+ Secret Management
-+ Security Testing
++ Access Control Validation
++ Authentication Flows
 
 @@ DEVELOPMENT @@
 
-+ CI/CD Pipelines
-+ Repository Templates
-+ Internal Tooling
 + Experimental Architectures
++ Internal Tooling
++ Prototype Systems
++ Repository Standards
 + Future Production Projects
 
 @@ RULES @@
 
+! Production Data Forbidden
 ! Breaking Changes Allowed
-! Production Data Prohibited
-! Failure Is Expected
+! Failure Is Part Of The Process
 ```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,50:334155,100:1e293b&height=2&section=header" width="100%"/>
-
-<br/>
-
-<div align="center">
+---
 
 # 🛠 Technology Playground
 
-<br/>
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
 &nbsp;&nbsp;
@@ -172,78 +145,77 @@ status      : Active
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
 &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42"/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,50:334155,100:1e293b&height=2&section=header" width="100%"/>
-
-<br/>
-
-<div align="center">
+---
 
 # 📊 Laboratory Metrics
 
-<br/>
+<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=020617"/>
+<img height="165" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=020617"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=020617&color=60A5FA&line=60A5FA&point=e2e8f0&area=true&hide_border=true"/>
+<img width="60%" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Research%20Focus&theme=github_dark&titleColor=%2360A5FA&lineCount=6&line1=Infrastructure%2CInfrastructure%2C95%3B&line2=Security%2CSecurity%2C90%3B&line3=Docker%2CDocker%2C85%3B&line4=Automation%2CAutomation%2C80%3B&line5=Linux%2CLinux%2C75%3B&line6=CI%2FCD%2CCI%2FCD%2C70%3B"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=020617&color=60A5FA&line=60A5FA&point=e2e8f0&area=true&hide_border=true"/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e293b,50:334155,100:1e293b&height=2&section=header" width="100%"/>
-
-<br/>
-
-<div align="center">
+---
 
 # 🧠 Research Philosophy
 
+<div align="center">
+
+> *Research is where production begins.*
+
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4500&pause=2000&color=64748B&center=true&vCenter=true&width=800&lines=%22Research+is+where+production+begins.%22;%22Failure+is+data.%22;%22Every+experiment+teaches+something.%22;%22Production+is+earned.%22"/>
+> *Every failed experiment is a future outage prevented.*
 
-<br/><br/>
+<br/>
 
-*"The safest systems are built by people who have already broken them in a controlled environment."*
+> *The safest systems are built by people who have already broken them.*
 
-<br/><br/>
+<br/>
 
-**Research → Validation → Production**
+### Research → Validation → Production
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-
-### ⚠ Experimental Environment
+# ⚠ Environment Notice
 
 Repositories hosted here may contain:
 
-Development builds • Security tests • Infrastructure prototypes • CI/CD experiments • Future projects
+- Experimental code
+- Security research
+- Infrastructure prototypes
+- CI/CD validation projects
+- Incomplete systems
+- Future production candidates
 
-</div>
+Nothing here should be assumed production-ready.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,80:1e293b,100:334155&height=140&section=footer" width="100%"/>
+---
 
 <div align="center">
 
-<sub>JE7 Labs · Research Division · Failure is a Feature</sub>
+### 🧪 JE7 Labs
+
+*Break it. Learn from it. Build it better.*
 
 </div>

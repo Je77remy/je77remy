@@ -16,7 +16,7 @@
 
 ---
 
-# 🧪 JE7 Labs
+# 🧪 JE77REMY Labs
 
 Experimental branch dedicated to research, validation, prototyping, infrastructure testing and future project development.
 
@@ -159,9 +159,9 @@ production  : Restricted
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=je77remy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=020617"/>
+<img height="165" src="https://streak-stats.demolab.com?user=je77remy&theme=tokyonight&hide_border=true&background=020617"/>
 
 <br/><br/>
 
@@ -214,7 +214,7 @@ Nothing here should be assumed production-ready.
 
 <div align="center">
 
-### 🧪 JE7 Labs
+### 🧪 JE77REMY Labs
 
 *Break it. Learn from it. Build it better.*
 
